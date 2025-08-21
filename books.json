@@ -1,0 +1,19 @@
+{
+    "Books": [
+        {
+            "Title": "The Sun",
+            "Author": "Dorji wangchuk",
+            "Genre": "Fiction"
+        },
+        {
+            "Title": "The stray dog",
+            "Author": "Pema wangchuk",
+            "Genre": "Non-Fiction"
+        },
+        {
+            "Title": "The Moon",
+            "Author": "Tashi wangchuk",
+            "Genre": "Fiction"
+        }
+    ]
+}
